@@ -1,4 +1,4 @@
-# nba-rookie-predictor
+# NBA Rookie Predictor
 A series of Machine Learning algorithms that predict whether an incoming NBA rookie will last for five years in the league, using data gathered from the last 20 years.
 Uses data for each player from college, including stats such as points per game, assists per game, rebounds per game and more. Does not take into account round and position drafted, which allows for implementation before the drafting stages.
 
